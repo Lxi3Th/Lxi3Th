@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="assets/profile-banner.png" width="100%" alt="Dark cyan and violet machine-learning visualization banner" />
 
 # `Lxi3Th`
 
