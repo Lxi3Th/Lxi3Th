@@ -14,51 +14,9 @@
 [![Machine Learning](https://img.shields.io/badge/Machine_Learning-111827?style=flat-square&logo=scikitlearn&logoColor=F59E0B)](https://scikit-learn.org/)
 
 </div>
-
 ---
 
-### `01 / SELECTED WORK`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎬 Movie Recommender
-
-**Text → Features → Nearest Neighbors**
-
-A content-based recommendation project exploring how movie genres and keywords can be transformed into numerical representations for similarity-based retrieval.
-
-- TF-IDF vectorization
-- Nearest-neighbor search
-- Cosine-distance-based retrieval
-
-[↗ Explore repository](https://github.com/Lxi3Th/Movie-Recommender)
-
-</td>
-<td width="50%" valign="top">
-
-### 🐧 Penguin Species Classifier
-
-**Measurements → Scaling → Classification**
-
-A classification project using physical measurements to predict penguin species with a K-nearest neighbors model.
-
-- KNN classification
-- Feature standardization
-- Train/test evaluation
-
-**Reported test accuracy:** 98.06%
-
-[↗ Explore repository](https://github.com/Lxi3Th/penguin-species-classifier)
-
-</td>
-</tr>
-</table>
-
----
-
-### `02 / THE TOOLKIT`
+### `01 / THE TOOLKIT`
 
 <div align="center">
 
@@ -73,7 +31,7 @@ A classification project using physical measurements to predict penguin species 
 
 ---
 
-### `03 / ENGINEERING INTERESTS`
+### `02 / ENGINEERING INTERESTS`
 
 ```text
 / machine-learning
