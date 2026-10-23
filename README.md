@@ -14,7 +14,6 @@
 [![Machine Learning](https://img.shields.io/badge/Machine_Learning-111827?style=flat-square&logo=scikitlearn&logoColor=F59E0B)](https://scikit-learn.org/)
 
 </div>
----
 
 ### `01 / THE TOOLKIT`
 
