@@ -60,6 +60,3 @@ The goal isn't just to make a model run. It's to understand what it learns, why 
 
 </div>
 
-# Quote of motivation
-
-``` If they can do it i can do it```
