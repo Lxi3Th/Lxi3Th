@@ -59,3 +59,7 @@ The goal isn't just to make a model run. It's to understand what it learns, why 
 [Repositories](https://github.com/Lxi3Th?tab=repositories) · [Activity](https://github.com/Lxi3Th?tab=overview)
 
 </div>
+
+# Quote of motivation
+
+``` If they can do it i can do it```
